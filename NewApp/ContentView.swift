@@ -12,7 +12,6 @@ struct ContentView: View {
 
     var body: some View {
         Text("Branche 2")
-        Text("Ajout")
     }
 }
 
