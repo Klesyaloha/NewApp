@@ -11,7 +11,7 @@ import SwiftData
 struct ContentView: View {
 
     var body: some View {
-        Text("Branche 3")
+        Text("Branche 3 delete")
     }
 }
 
